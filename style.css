@@ -9,9 +9,7 @@
 }
 
 
-::-webkit-scrollbar{
-  display: none;
-}
+
 section {
   padding: 100px;
 }
