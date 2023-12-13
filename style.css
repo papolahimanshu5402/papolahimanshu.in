@@ -66,6 +66,9 @@ header ul li a:hover{
     background-color: #2196f3;
     border-radius: 10px;
 }
+#passion{
+  font-size:1.7em;
+}
 
 /*Banner design*/
 .banner {
@@ -428,6 +431,11 @@ swiper-slide video {
   .banner h2, .banner h3 {
     font-size: 1em;
   }
+
+
+  #passion{
+  font-size:1.2em;
+}
   .btn {
     margin-top: 10px;
     padding: 10px 20px;
@@ -490,5 +498,8 @@ swiper-slide video {
   section {
     padding: 30px 20px;
   }
+  #passion{
+  font-size:.8em;
+}
   
 }
